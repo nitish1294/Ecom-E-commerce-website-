@@ -43,3 +43,14 @@ Ensure you have Node.js and npm (or yarn) installed on your machine. You can dow
     npm start
     ```
 
+### Project snapshots
+1. **Home Page :**
+    ![screencapture-localhost-3000-2024-08-15-23_04_59](https://github.com/user-attachments/assets/921ffc25-4864-456b-b281-5770e96a0ac5)
+2. **View All Product:**
+    ![screencapture-localhost-3000-product-2024-08-15-23_05_59](https://github.com/user-attachments/assets/9a2eb7a7-0f65-4800-8b42-8fa8bddcb1e0)
+3. **About US:**
+   ![screencapture-localhost-3000-about-2024-08-15-23_06_28](https://github.com/user-attachments/assets/fa61793d-fa3a-4c95-be0a-7ee06d664e4e)
+4. **Contact :**
+    ![screencapture-localhost-3000-contact-2024-08-15-23_06_48](https://github.com/user-attachments/assets/c6894a41-2a09-48ba-b98e-9fa0bd75600c)
+
+# Thank You
